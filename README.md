@@ -24,7 +24,6 @@ type your infix expression: 3+4*2
 answer is 11.00
 ```
 
-The program also displays the converted postfix expression.
 
 ## Limitations
 
