@@ -15,7 +15,7 @@ Kevin recommended that i upload my calculator hw onto here. Shout out Shen42!
    java hw2.Main
    ```
 
-5. Hey so just enter numbers into the calculator. 
+5. just enter numbers into the calculator. 
 
 ## Example
 
@@ -28,4 +28,4 @@ The program also displays the converted postfix expression.
 
 ## Limitations
 
-This calculator does not currently handle division by zero or negative numbers correctly. Please use supported expressions when testing.
+This calculator does not currently handle division by zero or negative numbers unfortunately
